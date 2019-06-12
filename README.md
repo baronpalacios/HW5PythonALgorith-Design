@@ -46,3 +46,4 @@ let s suppose n=4, M=10 and the operating costs are given by the following
 table.
 
 
+![Capture](https://user-images.githubusercontent.com/32982938/59381598-7a52bf00-8d64-11e9-8ac5-af3642973cd7.PNG)
